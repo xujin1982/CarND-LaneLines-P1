@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 [image5]: ./test_images_output/masked_edge_image.jpg "Grayscale"
 [image6]: ./test_images_output/line_image.jpg "Grayscale"
 [image7]: ./test_images_output/result.jpg "Grayscale"
-[image8]: ./test_images_output/result_solid_line.jpg "Grayscale"
-[image9]: ./test_images_output/challenge_segmented.jpg "Grayscale"
-[image10]: ./test_images_output/challenge_solid.jpg "Grayscale"
+[image8]: ./test_images_output/result_solid_line.JPG "Grayscale"
+[image9]: ./test_images_output/challenge_segmented.JPG "Grayscale"
+[image10]: ./test_images_output/challenge_solid.JPG "Grayscale"
 
 ---
 
