@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 [image6]: ./test_images_output/line_image.jpg "Grayscale"
 [image7]: ./test_images_output/result.jpg "Grayscale"
 [image8]: ./test_images_output/result_solid_line.jpg "Grayscale"
-[image9]: ./test_images_output/challenge[00_00_03][20170718-162749-0].jpg "Grayscale"
-[image10]: ./test_images_output/challenge_segme[00_00_03][20170718-163000-1].jpg "Grayscale"
+[image9]: ./test_images_output/challenge_segmented.jpg "Grayscale"
+[image10]: ./test_images_output/challenge_solid.jpg "Grayscale"
 
 ---
 
@@ -83,10 +83,10 @@ Another shortcoming could be that if there are too many noise near the line, the
 For example:
 
 For segmented line detection.
-![alt text][image10]7/18/2017 4:30:44 PM 
+![alt text][image9]7/18/2017 4:30:44 PM 
 
 For solid line detection.
-![alt text][image9]7/18/2017 4:30:51 PM 
+![alt text][image10]7/18/2017 4:30:51 PM 
 
 ### 3. Suggest possible improvements to your pipeline
 
